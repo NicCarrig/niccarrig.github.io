@@ -12,3 +12,5 @@ https://niccarrig.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by [Nic C]
+
+### ©️2019 Run Buddy, Inc
