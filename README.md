@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://niccarrig.github.io/run-buddy/
+https://niccarrig.github.io/runBuddy/
 
 ## Contribution
 Made with ❤️ by [Nic C]
